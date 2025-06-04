@@ -1,0 +1,21 @@
+body{
+    background-image : url("dac25aac40b4b3ab949940ae6aadbf6c.jpg");
+     background-repeat : no-repeat;
+    background-attachment: fixed;
+    background-position:0%;
+    background-size:cover;
+
+
+}
+h1{
+
+  background : linear-gradient(to right, red , orange);
+    background-repeat : no-repeat;
+    background-attachment: fixed;
+
+}
+p{
+    background : linear-gradient(to left, red, orange);
+    background-repeat : no-repeat;
+    background-attachment: fixed;
+}

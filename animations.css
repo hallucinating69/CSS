@@ -1,0 +1,43 @@
+#box1{
+    width :550px;
+    height : 650px;
+    background : red;
+    font-size : 225px;
+    text-align: center;
+    /*animation: mybitch;
+    animation-play-state: running;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-duration : 5s;
+    */
+    animation : 3s linear 0s infinite running mybitch;
+
+}
+/*#box1 :hover{
+    animation : 3s linear 0s infinite running mybitch;
+}
+#box1:active {
+    animation : 3s linear 0s infininte running mybitch;
+} */
+@keyframes mybitch{
+    from {margin-left : 100%;}
+    to {marigin-left : 0%;}
+}
+@keyframes mybackshots{
+    100%(transform : rotateX (360deg))
+    100%(transform : rotateY (360deg))
+}
+@keyframes myOpacity{
+    50%(opacity: 0;)
+}
+@keyframes myScale {
+    50%(transform scale (0.5 , 0,5));
+}
+@keyframes myColorChange{
+    0%(background-color : red ; )
+    20%(background-color : red ; )
+    40%(background-color : red ; )
+    60%(background-color : red ; )
+    80%(background-color : red ; )
+    100%(background-color : red ; )
+}
