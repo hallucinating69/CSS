@@ -1,0 +1,15 @@
+h1{
+    border-style :dashed;
+}
+p{
+    border-style : outset ;
+    border-width: 5px;
+    border-color: yellow;
+    border-radius: 10px;
+    border-left-color: silver;
+    border-right-color: rgb(221, 4, 4);
+    border-top-color: rgb(18, 4, 221);
+    border-bottom-color: rgb(20, 128, 10);
+    
+
+}

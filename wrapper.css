@@ -1,0 +1,49 @@
+ 
+    body { 
+            background-color : rgb(223, 0, 93);
+    }
+        h1 {
+            color : whitesmoke;
+            font-family : "press Start 2P","consolas","sans-serif"
+        }
+        p1 {
+            background-color: rgb(216, 35, 35);
+            color: aliceblue;
+            font-family : "press Start 2P","consolas","sans-serif";
+            font-style : italic;
+            font-weight : bold;
+            text-decoration : cyan dotted underline;
+            font-size : 18px;
+        }
+        p2 {
+            background-color: rgb(216, 35, 35);
+            color: aliceblue;
+            font-family : "sans-serif";
+            font-style : italic;
+            font-weight : bold;
+            text-decoration : cyan dotted underline;
+            font-size : 18px;
+        }
+        p3 {
+            background-color: rgb(216, 35, 35);
+            color: aliceblue;
+            font-family : "sans-serif";
+            font-style : italic;
+            font-weight : bold;
+            text-decoration : cyan dotted underline;
+            font-size : 18px;
+        }
+        p4 {
+            background-color: rgb(216, 35, 35);
+            color: aliceblue;
+            font-family : "consolas";
+            font-style : italic;
+            font-weight : bold;
+            text-decoration : cyan dotted underline;
+            font-size : 18px;
+        }
+        
+        
+    .wrapper {
+        color:#ff0000;
+    }
